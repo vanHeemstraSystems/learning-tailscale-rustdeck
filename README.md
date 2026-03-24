@@ -1,2 +1,3 @@
-# learning-tailscale-rustdeck
-Learning Tailscale Rustdeck
+# Learning Tailscale Rustdeck
+
+- [References](./REFERENCES.md)
